@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.tailwindcss" },
 }
